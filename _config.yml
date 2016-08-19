@@ -1,0 +1,21 @@
+# Site settings
+title: Getting back into coding
+header-img: img/home-bg.png
+email: enquiries@forestfed.com
+copyright_name: WilliamJones62
+description: > # this means to ignore newlines until "baseurl:"
+  (mis)Adventures in programming
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  WilliamJones62
+learn_profile: WilliamJones62
+email_username: enquiries@forestfed.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
