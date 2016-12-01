@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rails Assessment "
-date:   2016-12-01 04:06:55 +0000
+date:   2016-11-30 23:06:55 -0500
 ---
 
 
