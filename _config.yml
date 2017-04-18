@@ -1,7 +1,7 @@
 # Site settings
 title: Getting back into coding
 header-img: img/home-bg.png
-email: enquiries@forestfed.com
+email: williamjones120862@gmail.com
 copyright_name: WilliamJones62
 description: > # this means to ignore newlines until "baseurl:"
   (mis)Adventures in programming
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  WilliamJones62
 learn_profile: WilliamJones62
-email_username: enquiries@forestfed.com
+email_username: williamjones120862@gmail.com
 
 # Build settings
 markdown: kramdown
