@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Authorization and AngularJS"
-date:   2017-04-11 12:42:22 +0000
+date:   2017-04-11 08:42:23 -0400
 ---
 
 
